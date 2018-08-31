@@ -5,7 +5,7 @@
 
 """
 for i in ['nombre', 'edad', 'altura']:
-    print(f"Su {i} es: " + input(f"Ingrese su {i}: "))
+    print("Su "+i+" es: " + input("Ingrese su "+i+": "))
 
 '''
 O así
