@@ -1,3 +1,6 @@
+# José Ignacio Menchaca Castro
+# 215818166
+
 values = [int(input("Valor 1: ")), int(input("Valor 2: ")), int(input("Valor 3: "))]
 
 for i in range(1, len(values)):
