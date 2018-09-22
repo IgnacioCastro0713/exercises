@@ -29,8 +29,8 @@ def menu():
     2.- valor ramdom
     3.- ecuación de primer grado
     """)
-    opc = int(input())
     while True:
+        opc = int(input())
         if opc == 1:
             suma(val1, val2)
             break
