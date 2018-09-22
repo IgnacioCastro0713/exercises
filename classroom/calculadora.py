@@ -41,8 +41,8 @@ def menu():
             ecuacion(val1, val2)
             break
         else:
-            print('Opción invalida')
-            break
+            print('Opción invalida!')
+            print('Elija de nuevo: ')
 
 
 menu()
