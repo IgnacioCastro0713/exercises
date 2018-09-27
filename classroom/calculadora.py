@@ -1,3 +1,8 @@
+'''
+José Ignacio Menchaca Castro
+215818166
+'''
+
 from random import randint
 
 
